@@ -1,0 +1,25 @@
+
+infile dictionary {
+
+_column(1) 	 numeric 		 BALLOT 		 %20f 		 "ballot used for interview" 
+_column(6) 	 numeric 		 MARITAL 		 %20f 		 "marital status" 
+_column(10) 	 numeric 		 DIVORCE 		 %20f 		 "ever been divorced or separated" 
+_column(15) 	 numeric 		 CHILDS 		 %20f 		 "number of children" 
+_column(20) 	 numeric 		 AGE 		 %20f 		 "age of respondent" 
+_column(25) 	 numeric 		 CAPPUN2 		 %20f 		 "does r favor capital punishment" 
+_column(30) 	 numeric 		 CAPPUN 		 %20f 		 "favor or oppose death penalty for murder" 
+_column(35) 	 numeric 		 RELIG 		 %20f 		 "r's religious preference" 
+_column(39) 	 numeric 		 DENOM 		 %20f 		 "specific denomination" 
+_column(44) 	 numeric 		 ATTEND 		 %20f 		 "how often r attends religious services" 
+_column(49) 	 numeric 		 RELITEN 		 %20f 		 "strength of affiliation" 
+_column(54) 	 numeric 		 SPFUND 		 %20f 		 "how fundamentalist is spouse currently" 
+_column(59) 	 numeric 		 ABDEFECT 		 %20f 		 "strong chance of serious defect" 
+_column(64) 	 numeric 		 ABNOMORE 		 %20f 		 "married--wants no more children" 
+_column(69) 	 numeric 		 ABHLTH 		 %20f 		 "woman's health seriously endangered" 
+_column(74) 	 numeric 		 ABPOOR 		 %20f 		 "low income--cant afford more children" 
+_column(79) 	 numeric 		 ABRAPE 		 %20f 		 "pregnant as result of rape" 
+_column(84) 	 numeric 		 ABSINGLE 		 %20f 		 "not married" 
+_column(89) 	 numeric 		 ABANY 		 %20f 		 "abortion if woman wants for any reason" 
+_column(94) 	 numeric 		 YEAR 		 %20f 		 "GSS year for this respondent" 
+_column(99) 	 numeric 		 ID_ 		 %20f 		 "Respondent id number" 
+}
